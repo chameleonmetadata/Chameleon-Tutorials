@@ -11,7 +11,7 @@ The following two variables MUST be set before execution:
 
 2: sec_company_cik              = '0001631574'      
 #
-The following two variables are optional and may be set before execution to filter results (in DSB-3-LAB-1-A filing_type has been set):
+The following three variables are optional and may be set before execution to filter results (in DSB-3-LAB-1-A filing_type has been set):
 
 1: filing_type                  = '10-K'       #-- &type URL variable
 
