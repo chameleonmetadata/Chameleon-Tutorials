@@ -1,4 +1,4 @@
-# ChameleonMetadata / education / DSB-3 / DSB-3-LAB-1-A
+# chameleonmetadata / education / DSB-3 / DSB-3-LAB-1-A
 #
 This script will read a known SEC Edgar System Central Index Key (CIK) and make a REQUEST to Edgar 
 for SEC filings associated with that CIK and store the URL for each filing.  
