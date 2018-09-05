@@ -1,0 +1,7 @@
+Chameleon Tutorial DSB-3-LAB-1-A 
+2018-08-17 11:04:00.526797 
+0001631574 
+https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001631574&type=10-K 
+c:/DMZ_FTP-Receiving/sec-edgar/0001631574 
+c:/DMZ_FTP-Receiving/sec-edgar/0001631574/edgar-request-18-08-17-11-04.txt 
+c:/DMZ_FTP-Receiving/sec-edgar/0001631574/edgar-reply-18-08-17-11-04.txt 
