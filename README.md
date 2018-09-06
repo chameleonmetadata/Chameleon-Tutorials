@@ -1,8 +1,6 @@
-# Protocol-In a hurry and don't want to read all these words before you get to the actual Python code? No Problem.
+# Protocol-DSB-3-LAB-1-AB (Jupyter and .py versions available)
 
-You can download the Python/BeautifulSoup code here: GitHub Site for Protocol-DSB-3-LAB-1-AB (Jupyter and .py versions available)
-
-OK, back to this student lab. Back in tutorial DSB-3-1 (see it here) we walked through the creation of nine Capabilities we were looking to provide at the haircare products company Curl Up & Dye. Student Lab, DSB-3-LAB-1-A, was the first Hands-On Student Labs for the series and its expected learning outcome was to enable students to create a URL to request filings from the SEC's Edgar system. The reply consisted of a list of URL's for the SEC filings which met the filter criteria we provided (Python code for that is available at my GitHub site: LAB-1-A).
+Back in tutorial DSB-3-1 (see it here) we walked through the creation of nine Capabilities we were looking to provide at the haircare products company Curl Up & Dye. Student Lab, DSB-3-LAB-1-A, was the first Hands-On Student Labs for the series and its expected learning outcome was to enable students to create a URL to request filings from the SEC's Edgar system. The reply consisted of a list of URL's for the SEC filings which met the filter criteria we provided (Python code for that is available at my GitHub site: LAB-1-A).
 
 For this lab the code from LAB-1-A and LAB-1-B has been combined into a single set of code which Chameleon Metadata refers to as a Python Protocol. In the 'real world' Python programming, you can think of LAB-1-A and LAB-1-B as Python Methods and a Python Protocol as a Python Class. But, I have simply 'stitched the two pieces of code together' instead of coding it as a Class with Methods to make it less complex for students new to Python coding.
 
